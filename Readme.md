@@ -66,8 +66,7 @@ Mental health is one of the most significant challenges of the modern era. This 
 predict_stress("I feel overwhelmed with everything happening in my life.")
 # Output: 'Stress'
 
-
-
+ ```
 
 ## 📁 Project Structure
 
