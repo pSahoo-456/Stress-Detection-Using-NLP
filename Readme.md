@@ -25,7 +25,7 @@ Mental health is one of the most significant challenges of the modern era. This 
   Combines **Naïve Bayes**, **Logistic Regression**, **Random Forest**, and **SVM** via a **Voting Classifier** for improved accuracy.
 
 - 🧪 **Interactive Prediction**  
-  A simple method to pass user input and predict if it indicates **Stress** or **No Stress**.
+  A simple method to pass user  input and predict if it indicates **Stress** or **No Stress**.
 
 
 
@@ -45,7 +45,7 @@ Mental health is one of the most significant challenges of the modern era. This 
 |-----------------|---------------------------------------------------|
 | Language        | Python 🐍                                         |
 | NLP             | NLTK, Regex                                       |
-| ML Algorithms   | Logistic Regression, Naïve Bayes, Random Forest, SVM |
+| ML Algorithms   | Logistic Regression, Naïve Bayes, Random Forest,SVM |
 | Visualization   | Matplotlib, WordCloud                             |
 | Feature Extraction | TfidfVectorizer                               |
 | Interface (Optional) | Streamlit for deployment                    |
